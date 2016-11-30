@@ -1,7 +1,7 @@
 # Webpack config by ROXy
 
 ### Npm initial add scripts in package.json 
-    `npm init -y`
+    npm init -y
     `"nodemon": "NODE_PATH=./src nodemon server.js",`
     `"build": "NODE_ENV='production' webpack -p",`
     `"start": "npm run dev",`
