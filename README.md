@@ -20,7 +20,7 @@
     npm i babel-loader clean-webpack-plugin css-loader open-browser-webpack-plugin extract-text-webpack-plugin file-loader html-loader json-loader less less-loader postcss-loader style-loader url-loader sass-loader node-sass -D
 
 ### ESLint
-npm i babel-eslint eslint eslint-loader eslint-plugin-react -D
+    npm i babel-eslint eslint eslint-loader eslint-plugin-react -D
 
 ### Express
     npm i express nodemon -D 
